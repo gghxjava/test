@@ -1,0 +1,21 @@
+# Maven #
+target/
+logs/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
+
+.idea
+.classpath
+.project
+*.iml
+target/
+.DS_Store
+.gitattributes
+.yml
